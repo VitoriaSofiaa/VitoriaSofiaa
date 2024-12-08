@@ -7,4 +7,4 @@
 
 ## Tecnologias que eu uso no meu dia 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaSofiaa&hide_progress=true)
+![VitoriaSofiaa GitHub stats](https://github-readme-stats.vercel.app/api?username=VitoriaSofiaa&show_icons=true&theme=radical)
